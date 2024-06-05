@@ -1,3 +1,8 @@
+키맵핑 수정
+
+https://nickcoutsos.github.io/keymap-editor/
+
+
 # Taira Keyboard ZMK config
 
 This repository builds the latest ZMK firmware for the [Taira Keyboard](https://github.com/strayer/taira-keyboard).
